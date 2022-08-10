@@ -1,0 +1,24 @@
+JaneJameson, ID Number 101:
+Current pay rate: $11.025
+Pay earned to date: $75.1
+
+SamSamuelson, ID Number 156:
+Current pay rate: $10
+Pay earned to date: $70
+
+BobBoberson, ID Number 104:
+Current pay rate: $10.5
+Pay earned to date: $73.5
+
+TimThomason, ID Number 136:
+Current pay rate: $10
+Pay earned to date: $70
+
+MikeMichaelson, ID Number 188:
+Not employed with the company.
+Pay earned to date: $40
+
+JasonJasonson, ID Number 190:
+Current pay rate: $10.5
+Pay earned to date: $63
+
